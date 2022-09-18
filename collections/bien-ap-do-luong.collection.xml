@@ -1,0 +1,30 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Ton Duy Hoang">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10739</md:content-id>
+    <md:title>Bien ap do luong </md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>e3033d3c-488e-44c7-8b2d-ba4cd21a8784</md:uuid>
+<md:slug>bien-ap-do-luong</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Biet chet lien </md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chuong 2: ung dung bien ap </md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>(Untitled)</md:title>
+              <col:content>                  </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chuong 3: ket luan</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
